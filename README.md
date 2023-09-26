@@ -6,6 +6,8 @@ I'm a software development student at Curio in the Netherlands
 
 **About me**
 
+- I'm the scrum master
+
 -  Student at [Curio](https://curio.nl/)
 
 -  I build various tools and addons for applications I use such as my own [2b2w](https://github.com/LennartWinter/2b2t-queue-waiter)
