@@ -12,7 +12,7 @@ I'm a software development student at Curio in the Netherlands
 
 -  I love writing Python, C and JavaScript
 
--  Ask me about anything [here](https://github.com/D296433/D296433/issues)
+-  Ask me about anything [here](https://github.com/LennartWinter/LennartWinter/issues)
 
 ![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,html,css,php,mysql,laravel,python,c)
 
