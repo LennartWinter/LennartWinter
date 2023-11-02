@@ -19,5 +19,5 @@ I'm a software development student at Curio in the Netherlands
 ![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,html,css,php,mysql,laravel,python,c)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=D296433&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lennart's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D296433&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LennartWinter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lennart's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennartWinter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
