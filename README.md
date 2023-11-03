@@ -8,9 +8,13 @@ I'm a software development student at Curio in the Netherlands
 
 -  Student at [Curio](https://curio.nl/)
 
--  I build various tools and addons for applications I use such as my own [Encryption tool](https://github.com/LennartWinter/Learning-encryption)
+-  I build various tools and addons for applications I use such as my own [Encryption tool](https://github.com/LennartWinter/Learning-encryption) or experiment with making [websites](https://github.com/LennartWinter/opendag)
 
--  I love writing Python, C and JavaScript
+-  I have experience using C#, Python, HTML, CSS, PHP and MySQL
+
+-  The frameworks I know how to use are Laravel and Bootstrap
+
+-  I'm currently learning Java, JavaScript and C
 
 -  Ask me about anything [here](https://github.com/LennartWinter/LennartWinter/issues)
 
