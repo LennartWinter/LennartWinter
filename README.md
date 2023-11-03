@@ -10,7 +10,7 @@ I'm a software development student at Curio in the Netherlands
 
 -  I build various tools and addons for applications I use such as my own [Encryption tool](https://github.com/LennartWinter/Learning-encryption) or experiment with making [websites](https://github.com/LennartWinter/opendag)
 
--  I have experience using C#, Python, HTML, CSS, PHP, JS, Java, C and MySQL
+-  I have experience using C#, Python, HTML, CSS, PHP, JS, and MySQL
 
 -  The frameworks I know how to use are Laravel and Bootstrap
 
