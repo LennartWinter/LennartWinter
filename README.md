@@ -14,7 +14,7 @@ I'm a software development student at Curio in the Netherlands
 
 -  The frameworks I know how to use are Laravel and Bootstrap
 
--  I'm currently learning PHP, Python, Java, JavaScript and C
+-  I'm currently learning PHP, Python and C#
 
 -  Ask me about anything [here](https://github.com/LennartWinter/LennartWinter/issues)
 
