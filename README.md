@@ -8,7 +8,7 @@ I'm a software development student at Curio in the Netherlands
 
 -  Student at [Curio](https://curio.nl/)
 
--  I build various tools and addons for applications I use such as my own [ArXiv discord bot](https://github.com/LennartWinter/Arxiv-discord-bot) or experiment with making [my own apps](https://github.com/LennartWinter/C-API-chat)
+-  I build various tools and addons for applications I use such as my own [ArXiv discord bot](https://github.com/LennartWinter/Arxiv-discord-bot) or experiment with making [browser in C#](https://github.com/LennartWinter/CS-Browser)
 
 -  I have experience using C#, Python, HTML, CSS, PHP, JS, and MySQL
 
