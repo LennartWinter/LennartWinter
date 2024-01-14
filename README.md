@@ -12,7 +12,7 @@ I'm a software development student at Curio in the Netherlands
 
 -  I have experience using C#, Python, HTML, CSS, PHP, JS, and MySQL
 
--  The frameworks I know how to use are Laravel and Bootstrap
+-  The frameworks I know how to use are Laravel, Bootstrap and .NET
 
 -  I'm currently learning PHP, Python and C#
 
