@@ -18,7 +18,7 @@ I'm a software development student at Curio in the Netherlands
 
 -  Ask me about anything [here](https://github.com/LennartWinter/LennartWinter/issues)
 
-![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,html,css,php,mysql,laravel,python,cs)
+![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,php,mysql,laravel,python,cs,dotnet)
 
 
 ![Lennart's GitHub stats](https://github-readme-stats.vercel.app/api?username=LennartWinter&show_icons=true&theme=radical)
